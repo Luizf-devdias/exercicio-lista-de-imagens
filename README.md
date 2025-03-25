@@ -1,5 +1,7 @@
 # 📚 Exercício - Lista de Imagens 🎨
 
+#### ✅ Link do projeto: https://luizf-devdias.github.io/exercicio-lista-de-imagens/
+
 ## 📄 Descrição
 
 Este projeto consiste em uma página web desenvolvida com **HTML** e **CSS**, apresentando uma **lista de pinturas famosas**. A página foi projetada para ser **totalmente responsiva**, garantindo uma boa experiência tanto em dispositivos móveis quanto em telas maiores.
